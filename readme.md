@@ -1,6 +1,5 @@
 # Xue Wen
-
-Engineer at Samsung 
+Engineer at Samsung <br><br>
 
 ## Main interests
 - Getting to understand interesting things, old and new
@@ -21,8 +20,9 @@ Engineer at Samsung
 - Audio analysis, impact detection/recognition, acoustical monitoring 
 
 ## Background
-- **PhD**, Queen Mary, University of London (2007) "Harmonic sinusoid modeling of tonal music events"
-- **MSc** and **BSc**, Tsinghua University (2002) "Microcontroller-based speaker verification"
+**PhD**, Queen Mary, University of London (2007) "Harmonic sinusoid modeling of tonal music events"
+
+**MSc** and **BSc**, Tsinghua University (2002) "Microcontroller-based speaker verification"
 
 
 ## Publications 
