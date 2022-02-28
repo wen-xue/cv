@@ -66,7 +66,7 @@ Xue Wen, Mark Sandler, "[Evaluating parameters of time-varying sinusoids by demo
 
 Xue Wen, Mark Sandler, "[Analysis and synthesis of audio vibrato using harmonic sinusoids](https://www.aes.org/e-lib/browse.cfm?elib=14555)," *AES 124th Convention*, Amsterdam, 2008.
 
-Xue Wen, Mark Sandler, "[Calculation of radix-2 discrete multiresolution Fourier transform](https://www.sciencedirect.com/science/article/abs/pii/S0165168407001430)," *Signal Processing*, vol. 87 no.10, 2007, pp.2455-2460.
+Xue Wen, Mark Sandler, "[Calculation of radix-2 discrete multiresolution Fourier transform](https://www.academia.edu/21826262/Calculation_of_radix_2_discrete_multiresolution_Fourier_transform)," *Signal Processing*, vol. 87 no.10, 2007, pp.2455-2460.
 
 Xue Wen, Mark Sandler, "[Sinusoid modeling in a harmonic context](https://www.dafx.de/paper-archive/2007/Papers/p033.pdf)," in *DAFx* 2007, Bordeaux.
 
