@@ -26,6 +26,8 @@ Engineer at Samsung <br><br>
 
 
 ## Publications 
+Xue Wen, "[Windowed quantum phase estimation: signal processing approach to a quantum algorithm](xue-wen_icassp25full.pdf)," *ICASSP* 2025. 
+
 Ruolan Liu, Xue Wen, Chunhui Lu, Liming Song, June Sig Sung, "[Vibrato learning in multi-singer singing voice synthesis](https://ieeexplore.ieee.org/document/9688029)," *ASRU* 2021. 
 
 Chunhui Lu, Xue Wen, Ruolan Liu, Xiaoyan Lou, Liming Song, June Sig Sung, Gunu Jho, Hyoungmin Park, "[The SRCB-SL system for Blizzard Challenge 2021](http://festvox.org/blizzard/bc2021/BC21_SRCB-SL.pdf)", *Blizzard Challenge Workshop* 2021.
