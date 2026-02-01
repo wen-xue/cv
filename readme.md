@@ -26,7 +26,11 @@ Engineer at Samsung <br><br>
 
 
 ## Publications 
+Chunhui Lu, Xue Wen, Liming Song, Junkwang Oh, "[Robust neural codec language modeling with phoneme position prediction for zero-shot TTS](https://www.isca-archive.org/interspeech_2025/lu25e_interspeech.pdf)", *INTERSPEECH* 2025, doi: 10.21437/Interspeech.2025-1641.
+
 Xue Wen, "[Windowed quantum phase estimation: signal processing approach to a quantum algorithm](xue-wen_icassp25full.pdf)," *ICASSP* 2025. 
+
+Chunhui Lu, Jaesung Lee, Xue Wen, Xiaoyan Lou, and Junkwang Oh, "[The SamsungTTS system for Blizzard Challenge 2023](https://www.isca-archive.org/blizzard_2023/lu23_blizzard.pdf)", *Blizzard Challenge Workshop* 2023.
 
 Ruolan Liu, Xue Wen, Chunhui Lu, Liming Song, June Sig Sung, "[Vibrato learning in multi-singer singing voice synthesis](https://ieeexplore.ieee.org/document/9688029)," *ASRU* 2021. 
 
