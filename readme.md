@@ -1,5 +1,7 @@
 # Xue Wen
-Engineer at Samsung <br><br>
+Engineer at Samsung<br>
+xue.wen@samsung.com<br><br>
+
 
 ## Main interests
 - Getting to understand interesting things, old and new
